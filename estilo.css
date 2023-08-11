@@ -1,0 +1,30 @@
+body,html{
+
+
+margin:auto;
+border:solid 10px red;
+background-color: rgb(255, 127, 80);
+}
+#destaque{
+    background-image:url(imagem/imagemdefundo.jpg) ;
+    text-align: center;
+    color: rgb(238, 232, 222);
+    height: 200px;
+
+}
+#item{
+    width: 20%;
+    text-align: center;
+    padding: 2%;
+}
+
+#produtos{
+    border: 6px solid;
+    border-style: double  black;
+    text-align: justify;
+}
+footer{
+text-align: center;
+}
+
+
